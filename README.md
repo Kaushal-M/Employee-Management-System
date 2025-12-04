@@ -54,7 +54,7 @@ A comprehensive, full-stack **Employee Management System** designed to streamlin
 
 ### ⚙️ Backend (Microservices)
 * **Framework:** Spring Boot 3.x
-* **Language:** Java 17 / 21
+* **Language:** Java 21
 * **Architecture:**
     1.  **API Gateway:** Central entry point routing traffic (Port 9999).
     2.  **Employee Service:** Core user data and authentication (Port 8081).
@@ -73,5 +73,5 @@ Employee_management_System/
 ├── EMS-Backend-Capstone/       # Core Employee Microservice
 ├── ExperienceService/          # Work Experience Microservice
 ├── EMS_API_GATEWAY/            # Spring Cloud Gateway
-├── ems-frontend/               # React Application
-└── assests/                    # Project Diagrams & Static Images
+├── EMS-Frontend-Capstone/      # React Application
+└── assets/                     # Project Diagrams & Static Images
